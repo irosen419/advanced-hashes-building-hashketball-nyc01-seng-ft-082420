@@ -43,15 +43,15 @@ def game_hash
                     :blocks => 8,
                     :slam_dunks => 5
                     },
-                    {:player_name => "Kemba Walker",
-                    :number => 33,
+                    {:player_name => "Jason Terry",
+                    :number => 31,
                     :shoes => 15,
-                    :points => 6,
-                    :rebounds => 12,
-                    :assists => 12,
-                    :steals => 7,
-                    :blocks => 5,
-                    :slam_dunks => 12
+                    :points => 19,
+                    :rebounds => 2,
+                    :assists => 2,
+                    :steals => 4,
+                    :blocks => 11,
+                    :slam_dunks => 1
                     }]
     },
     :away => {
