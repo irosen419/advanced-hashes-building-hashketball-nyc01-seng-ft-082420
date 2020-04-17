@@ -32,7 +32,18 @@ def game_hash
                     :steals => nil,
                     :blocks => nil,
                     :slam_dunks => nil
-                    }
+                    },
+                    {:player_name => nil,
+                    :number => nil,
+                    :shoes => nil,
+                    :points => nil,
+                    :rebounds => nil,
+                    :assists => nil,
+                    :steals => nil,
+                    :blocks => nil,
+                    :slam_dunks => nil
+                    },
+                    
       ]
     },
     :away => {
