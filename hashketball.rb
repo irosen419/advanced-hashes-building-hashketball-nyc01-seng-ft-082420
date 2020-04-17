@@ -18,10 +18,10 @@ def game_hash
                     :shoe => 14,
                     :points => 12,
                     :rebounds => 12,
-                    :assists => 7,
-                    :steals => 22,
-                    :blocks => 15,
-                    :slam_dunks => 10
+                    :assists => 12,
+                    :steals => 12,
+                    :blocks => 12,
+                    :slam_dunks => 7
                     },
                     {:player_name => "Brook Lopez",
                     :number => 11,
